@@ -5,7 +5,7 @@
 }
 
 body{
-    background-image: url("https://wallpapercave.com/wp/jJYCv7U.jpg");
+    background-color: rgb(37, 133, 202);
 }
 
 h1{
@@ -16,8 +16,7 @@ h1{
 .logo {
     width: 50px;
     height: auto;
-    transition: width 0.2s ease;
-    border-radius: 50%;
+    transition: width 0.2s ease; 
 }
 
 
@@ -26,7 +25,7 @@ h1{
 }
 
 nav{
-    background-color: rgb(31, 195, 207);
+    background-color: rgb(112, 104, 104);
     padding: 2%;
     display: flex;
 }
